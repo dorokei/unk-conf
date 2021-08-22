@@ -6,7 +6,7 @@
   "doubleTapSwitchLayerTimeout": 250,
   "iconsAndLayerTextsBrightness": 47,
   "alphanumericSegmentsBrightness": 31,
-  "keyBacklightBrightness": 255,
+  "keyBacklightBrightness": 0,
   "mouseMoveInitialSpeed": 17,
   "mouseMoveAcceleration": 16,
   "mouseMoveDeceleratedSpeed": 17,
@@ -701,19 +701,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -738,6 +725,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -913,19 +913,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -950,6 +937,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -1124,19 +1124,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -1161,6 +1148,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -1864,19 +1864,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -1901,6 +1888,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -2076,19 +2076,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -2113,6 +2100,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -2287,19 +2287,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -2324,6 +2311,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -3017,19 +3017,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -3054,6 +3041,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -3229,19 +3229,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -3266,6 +3253,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -3437,19 +3437,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -3474,6 +3461,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -4177,19 +4177,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -4214,6 +4201,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -4389,19 +4389,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -4426,6 +4413,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -4597,19 +4597,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -4634,6 +4621,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -5347,19 +5347,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -5384,6 +5371,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -5587,19 +5587,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -5624,6 +5611,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -5889,19 +5889,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -5926,6 +5913,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -6637,19 +6637,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -6674,6 +6661,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -6856,19 +6856,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -6893,6 +6880,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -7067,19 +7067,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -7104,6 +7091,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -7799,19 +7799,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -7836,6 +7823,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -8006,19 +8006,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -8043,6 +8030,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
@@ -8204,19 +8204,6 @@
               ]
             },
             {
-              "id": 4,
-              "keyActions": [
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "leftClick"
-                },
-                {
-                  "keyActionType": "mouse",
-                  "mouseAction": "rightClick"
-                }
-              ]
-            },
-            {
               "id": 2,
               "keyActions": [
                 {
@@ -8241,6 +8228,19 @@
                 {
                   "keyActionType": "mouse",
                   "mouseAction": "middleClick"
+                },
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "rightClick"
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "keyActions": [
+                {
+                  "keyActionType": "mouse",
+                  "mouseAction": "leftClick"
                 },
                 {
                   "keyActionType": "mouse",
